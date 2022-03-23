@@ -10,5 +10,6 @@ dependencies:
   - jupyter
   - plotly
   - python-kaleido
+  - pip
   - pip:
     - ethereum-etl
