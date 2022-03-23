@@ -1,0 +1,14 @@
+name: rare
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.3
+  - numpy
+  - scipy
+  - pandas
+  - sphinx
+  - jupyter
+  - plotly
+  - python-kaleido
+  - pip:
+    - ethereum-etl
